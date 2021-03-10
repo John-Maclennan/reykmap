@@ -1,0 +1,241 @@
+Sample_number,Reference,Volcanic Zone,Volcanic Zone specific,Volcanic System,Location,Site,Systems,time,Age yrs BP (Ref 1950),age error,Eruption type,Latitiude,Longitude,Type,SiO2,TiO2,Al2O3,Cr2O3,FeO,Fe2O3,MnO,MgO,CaO,Na2O,K2O,P2O5,SrO,BaO,H2O,sum,Pressure_min,Probability
+Krysuvik,Condomines1983,RVB,REP,Krysuvik,Krysuvik,0,Krysuvik,0,0,0,0,63.9,-22.08,Glass,49.314,1.543,14.825,0,10.488,0,0.182,8.441,12.707,2.037,0.252,0.212,0,0,0,100,4.362080602,0.967255775
+RE16,Hardarson1997,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,Lava,49.49,2.29,13.56,0,14.39,0,0.24,6.36,10.75,2.47,0.24,0.21,0,0,0,100,2.91079938,0.842079708
+D6D,Hemond1993,RVB,REP,Reykjanes,Reykjanes,Sandfellshaed,Reykjanes,0,0,0,0,63.88,-22.54,Lava,48.05,1.07,16.12,0,10.72,0,0.17,8.88,12.71,1.83,0.17,0.29,0,0,0,100.01,8.83099628,0.943109591
+RP86A,Gee,RVB,REP,Reykjanes,Lagafell_flow_ontop_of_pillows_SW_THorbjarnarfell,Lagafell,Reykjanes,Post-Glacial,<13000 BP,0,0,63.85,-22.45,Pillow,48.61,1.35,15.56,0,10.76,0,0.19,8.7,12.57,2.01,0.13,0.13,0,0,0,100.01,7.167891267,0.994709976
+RP51A,Gee,RVB,REP,Reykjanes,Slaga_3phi_from_top,Slaga,Reykjanes,0,0,0,0,63.85,-22.3,Pillow,48.63,1.59,15.04,0,10.47,0,0.19,8.8,12.83,2,0.27,0.18,0,0,0,100,5.757798807,0.800635801
+RP51B,Gee,RVB,REP,Reykjanes,Slaga_3phi_flow_from_ca_20m_below_51A,Slaga,Reykjanes,0,0,0,0,63.85,-22.3,Pillow,48.58,1.56,15.09,0,10.48,0,0.19,8.86,12.85,1.96,0.25,0.18,0,0,0,100,6.018522464,0.813708115
+RP69E,Gee,RVB,REP,Krysuvik,Keilir_loose_debris_almost_aphyric,Keilir,Krysuvik,0,0,0,0,63.95,-22.02,Pillow,48.89,1.32,15.71,0,9.88,0,0.18,8.82,12.83,1.94,0.26,0.15,0,0,0,99.98,6.4074053,0.988972278
+RP69C,Gee,RVB,REP,Krysuvik,Keilir_pillow_debris,Keilir,Krysuvik,0,0,0,0,63.95,-22.02,Pillow,48.81,1.33,15.85,0,9.73,0,0.18,8.92,12.82,1.95,0.26,0.15,0,0,0,100,6.82185347,0.991621921
+RP49E,Gee,RVB,REP,Krysuvik,Graenadyngja_E_side__flowlets_whitish_v_fine_grained_aphyric,0,Krysuvik,0,0,0,0,63.92,-22.08,Glass,49.25,1.77,14.54,0,11.79,0,0.21,7.58,12.33,2.08,0.23,0.22,0,0,0,100,3.456853945,0.807700839
+RP57B____1L,Gee,RVB,REP,Krysuvik,Hrutafell_older_Lava_2phi,Hrutafell,Krysuvik,0,0,0,0,63.93,-22.07,Glass,49.31,1.06,14.99,0,10.65,0,0.2,8.57,13.21,1.86,0.05,0.1,0,0,0,100,4.614920848,0.972794833
+456712,Peate2009,RVB,REP,Brennisteinsfjoll,0,Stapafell,Brennisteinsfjoll,Glacial,Glacial (20-100 Ka),0,0,63.91,-22.53,Lava,47.86,1.88,14.92,0,11.32,0,0.19,8.39,12.93,2.02,0.27,0.2,0,0,0,99.98,5.679628785,0.933650922
+456749g,Peate2009,RVB,REP,Brennisteinsfjoll,0,Stapafell,Brennisteinsfjoll,Glacial,Glacial (20-100 Ka),0,0,63.91,-22.53,Glass,48.789,1.801,15.288,0,10.607,0,0.162,8.398,12.516,2.165,0.273,0,0,0,0,100,5.587348975,0.983673602
+RP42I____1F,Gee,RVB,REP,Krysuvik,Meltunnuklif__unit_2_flow_from_road_section_>10k,Meltunnuklif,Krysuvik,0,0,0,0,63.85,-22.27,Lava,48.25,1.75,15.42,0,11.01,0,0.2,8.61,12.51,1.92,0.15,0.19,0,0,0,100.01,7.204292399,0.988303664
+RP26V______P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_aphyric_pillows_and_Glass_150m_W_of_26T,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,48.06,1.76,15.49,0,12.2,0,0.2,8.08,11.7,2.19,0.14,0.17,0,0,0,99.99,8.226904521,0.929700748
+RP26Y______P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge__pillow_margin_,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,47.86,1.61,15.87,0,11.79,0,0.19,8.65,11.55,2.18,0.13,0.15,0,0,0,99.98,10.25626606,0.9750936
+RP27C,Gee,RVB,REP,Krysuvik,Helgafell_Ridge__N_end_2_phase_flow?_bnth_hy_opp_wall_to_27A_may_be_same,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,47.89,1.64,15.77,0,11.79,0,0.2,8.65,11.58,2.18,0.14,0.15,0,0,0,99.99,10.01261136,0.952735681
+RP27A____2F,Gee,RVB,REP,Krysuvik,Helgafell_Ridge__N_end_2_phase_flow?_bnth_hy,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,47.87,1.53,16.09,0,11.41,0,0.19,9,11.56,2.08,0.12,0.15,0,0,0,100,11.14270735,0.93471269
+RP51I,Gee,RVB,REP,Krysuvik,Borgarfjall_20m_from_top_almost_aphyric_flow,Borgarfjall,Krysuvik,0,0,0,0,63.85,-22.3,Pillow,48.69,1.59,15.05,0,10.51,0,0.19,8.61,12.84,2.08,0.27,0.17,0,0,0,100,5.326470566,0.903720405
+RP42J1____2F,Gee,RVB,REP,Krysuvik,Meltunnuklif__unit_3_flow_from_road_section_>10k,Meltunnuklif,Krysuvik,0,0,0,0,63.85,-22.27,Lava,48,1.81,15.14,0,11.53,0,0.2,8.66,12.36,1.94,0.17,0.19,0,0,0,100,7.58234718,0.905411315
+RP33,Gee,RVB,REP,Krysuvik,NE_of_Keilir_aphyric_pillow,0,Krysuvik,0,0,0,0,63.97,-22.13,Pillow,48.69,1.78,14.94,0,11.78,0,0.21,7.8,12.11,2.23,0.24,0.22,0,0,0,100,5.262984515,0.93918722
+RP61H__Dyke,Gee,RVB,REP,Krysuvik,NE_of_Kleifarvatn_dyke_in_possible_3_phase_knolls,Kleifarvatn,Krysuvik,0,0,0,0,63.97,-21.93,Pillow_Glass,49.25,1.77,14.41,0,12.43,0,0.22,7.35,11.79,2.34,0.24,0.2,0,0,0,100,3.910139795,0.945437289
+RP41B____2P,Gee,RVB,REP,Krysuvik,NW_of_Kleifarvatn_large_Quarry_basal_pillows,Kleifarvatn,Krysuvik,0,0,0,0,63.97,-21.95,Pillow,48.12,1.82,15.45,0,12.06,0,0.21,8.07,11.8,2.14,0.16,0.18,0,0,0,100.01,7.835182209,0.902334074
+RP41C____1P,Gee,RVB,REP,Krysuvik,NW_of_Kleifarvatn_large_Quarry_basal_pillows_unit_above_41B,Kleifarvatn,Krysuvik,0,0,0,0,63.97,-21.95,Pillow,48.02,1.83,15.44,0,11.99,0,0.21,8.14,11.86,2.18,0.15,0.18,0,0,0,100,7.92382695,0.954204084
+RP65L___F,Gee,RVB,REP,Krysuvik,Borgaholl_Welded_Lava_same_as_65E?,Borgahol,Krysuvik,0,0,0,0,63.87,-22.07,Glass,49.29,1.68,14.18,0,13.24,0,0.23,7.1,11.62,2.35,0.16,0.15,0,0,0,100,3.836623422,0.898028138
+RP65E____F,Gee,RVB,REP,Krysuvik,Below_Viking_House_welded_Lava_ontop_of_Scoriaceous_material_possibly_similar_to_65L,Borgahol,Krysuvik,0,0,0,0,63.87,-22.07,Glass,49.15,1.28,14.61,0,11.43,0,0.2,8.23,12.85,2,0.12,0.12,0,0,0,99.99,4.276341486,0.996444213
+RP26G_____2P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_pillow_nama_Plag_phyric_pillow_below_u/c_Unit_2,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,49.13,1.43,15.2,0,10.76,0,0.19,8.51,12.39,2.02,0.22,0.16,0,0,0,100.01,5.950995862,0.994135424
+RP53A____1P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_pillow_nama_Plag_phyric_pillow_from_quarry_floor_Unit_1,Helgafell,Krysuvik,Glacial,0,0,0,64.03,-21.9,Pillow,49.23,1.59,14.79,0,11.36,0,0.2,7.81,12.45,2.13,0.25,0.18,0,0,0,99.99,3.926009842,0.897482489
+RP26H____3P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_pillow_nama_Plag_phyric_pillow_above_u/c_Unit_3,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,49,1.37,15.52,0,10.39,0,0.18,8.64,12.47,2.07,0.21,0.15,0,0,0,100,6.483792568,0.996061856
+RP26J____4P,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_pillow_nama_highest_Plag_phyric_pillow_above_u/c_Unit_4,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,49.12,1.42,15.21,0,10.75,0,0.19,8.5,12.36,2.08,0.22,0.16,0,0,0,100.01,5.976731209,0.988950406
+RP26N____5F,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_above_pillow_nama_flow._Unit_5?,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,48.02,1.68,15.66,0,11.9,0,0.21,8.44,11.65,2.15,0.13,0.16,0,0,0,100,9.248394741,0.996057001
+RP26A,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_debris_from_S_end_of_ridge_by_road.,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,47.92,1.78,15.5,0,11.82,0,0.21,8.53,11.89,2.06,0.13,0.17,0,0,0,100.01,8.861668384,0.989907847
+RP130A,Gee,RVB,REP,Krysuvik,Fitjar_dyke_in_Skritha,Fitjar,Krysuvik,0,0,0,0,63.83,-22.1,Glass,49.09,1.35,14.77,0,11.52,0,0.2,8.3,12.62,1.87,0.13,0.13,0,0,0,99.98,5.137421505,0.996385985
+RP58F__GH,Gee,RVB,REP,Krysuvik,W_Kleifarvatn_Hofmannaflott__hya_and_Glass_from_flow_ontop_of_ridge_most_recent_,Kleifarvatn,Krysuvik,0,0,0,0,63.92,-22.03,Pillow,48.25,1.83,15.16,0,12.18,0,0.2,7.97,11.8,2.26,0.17,0.19,0,0,0,100.01,7.087054774,0.982981654
+RP58G_F(58F),Gee,RVB,REP,Krysuvik,W_Kleifarvatn_Hofmannaflott__flow_associated_with_58F_ontop_of_ridge_most_recent_,Kleifarvatn,Krysuvik,0,0,0,0,63.92,-22.03,Pillow,48.28,1.81,15.2,0,12.18,0,0.2,7.81,11.89,2.28,0.16,0.19,0,0,0,100,6.637973496,0.880859959
+RP62I____1P,Gee,RVB,REP,Krysuvik,N_Kleifarvatn_aphyric_pillows_from_'island',Kleifarvatn,Krysuvik,0,0,0,0,63.95,-21.95,Pillow_Glass,49.21,1.88,14.57,0,12.11,0,0.21,7.28,11.88,2.34,0.29,0.23,0,0,0,100,3.60031582,0.810167095
+RP26O,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_pillowing_flow_from_N_side_of_graben,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,47.95,1.63,15.8,0,11.83,0,0.2,8.65,11.55,2.1,0.13,0.16,0,0,0,100,10.110606,0.983387659
+RP26T,Gee,RVB,REP,Krysuvik,Helgafell_Ridge_basalt_from_radial_cooling_polygons_on_S_of_graben,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Pillow,48.14,1.81,15.12,0,12.41,0,0.21,8.01,11.82,2.15,0.16,0.17,0,0,0,100,7.365080711,0.986103047
+RP52A____1F,GeeThirlwall2004,RVB,REP,Krysuvik,Hamranes_nama_massive_flow_plag_phi_Asfjall_older_than_52c_>10k,Hamranes-nama,Krysuvik,0,0,0,0,64.03,-21.95,Lava,48.91,0.67,15.86,0,9.04,0,0.16,9.65,13.98,1.66,0.03,0.05,0,0,0,100.01,6.576310719,0.993856611
+RP51E,Gee,RVB,REP,Krysuvik,Slaga_3phi_massive_flow_glaciated,Slaga,Krysuvik,0,0,0,0,63.85,-22.3,Glass,48.5,1.59,15.2,0,10.65,0,0.18,8.63,12.89,1.93,0.25,0.18,0,0,0,100,5.841342089,0.983158528
+RP42M1____3F,Gee,RVB,REP,Krysuvik,Meltunnuklif__unit_4b_flow_from_road_section_>10k,Meltunnuklif,Krysuvik,0,0,0,0,63.85,-22.27,Lava,48.9,1.47,15.12,0,11.25,0,0.2,8.16,12.5,2.07,0.16,0.16,0,0,0,99.99,5.427333813,0.92559166
+RP115P,Gee,RVB,REP,Krysuvik,Aphyric_W_of_Meradalur_glaciated,0,Krysuvik,0,0,0,0,63.9,-22.22,Glass,48.21,1.61,15.25,0,11.16,0,0.19,8.66,12.51,2.03,0.23,0.16,0,0,0,100.01,7.102026857,0.896548396
+RP59C,Gee,RVB,REP,Krysuvik,D12_Glaciated_flow_round_Keilir_Vogar,0,Krysuvik,0,0,0,0,63.97,-22.4,Lava,48.32,2.07,14.36,0,12.59,0,0.22,8.03,11.98,2.06,0.17,0.2,0,0,0,100,5.855558385,0.880528353
+RP64B____1F,Gee,RVB,REP,Krysuvik,Glaciated_flow_N_of_coast_rd_Krysuvikurheidi_possibly_older_than_64B,0,Krysuvik,0,0,0,0,63.85,-22,Pillow,49.25,1.2,14.6,0,11.17,0,0.2,8.4,13.09,1.9,0.1,0.11,0,0,0,100.02,4.089452007,0.992634717
+RP103E,Gee,RVB,REP,Krysuvik,Possibly_similar_to_RP103A-C_but_from_further_N_across_new_flow,0,Krysuvik,0,0,0,0,63.9,-21.97,Lava,48.43,0.61,16.63,0,8.63,0,0.17,9.98,13.54,1.97,0.01,0.03,0,0,0,100,9.252655332,0.953239856
+RP64S____1F,Gee,RVB,REP,Krysuvik,D18_E_southern_coast_road_oldest_2_phase_flow,0,Krysuvik,0,0,0,0,63.85,-22,Lava,48.14,1.48,16.05,0,10.61,0,0.18,8.57,12.39,2.26,0.18,0.14,0,0,0,100,8.097300694,0.949116854
+RP132C,Gee,RVB,REP,Krysuvik,Husafell_glaciated_flow,Husafell,Krysuvik,0,0,0,0,64.02,-21.8,Pillow,48.2,1.29,15.93,0,10.38,0,0.18,9.28,12.48,1.97,0.16,0.14,0,0,0,100.01,9.21805865,0.871292207
+RP68D,Gee,RVB,REP,Krysuvik,HT_>_10k,0,Krysuvik,0,0,0,0,64.08,-21.83,Lava,48.63,0.6,16.22,0,9.01,0,0.17,9.92,13.63,1.74,0.04,0.04,0,0,0,100,8.425900921,0.924190896
+RP64P____2F,Gee,RVB,REP,Krysuvik,D23_E_southern_coast_road_older_2_phase_flow,0,Krysuvik,0,0,0,0,63.85,-22,Lava,48.63,1.31,15.19,0,10.89,0,0.2,8.51,13.08,1.98,0.1,0.1,0,0,0,99.99,5.525845872,0.981604173
+IC215,Hardarson1997,RVB,REP,Krysuvik,0,Eldborgarhraun,Krysuvik,Historical,1325 AD,0,0,63.97,-21.43,Lava,49.05,1.58,14.85,0,11.83,0,0.19,7.79,11.96,2.4,0.18,0.15,0,0,0,99.98,5.124077146,0.987929571
+IC221,Hardarson1997,RVB,REP,Brennisteinsfjoll,0,Heidin_Ha,Brennisteinsfjoll,Glacial,0,0,0,63.89,-21.97,Lava,48.38,1.18,15.71,0,10.34,0,0.18,9.2,12.75,2.08,0.09,0.09,0,0,0,100,8.161272526,0.859016688
+RP11,Koornneef2012,RVB,REP,Brennisteinsfjoll,0,Herdi_sarvik,Brennisteinsfjoll,0,0,0,0,63.87,-21.786,Lava,48.669,1.363,15.413,0.051,10.912,0,0.183,8.363,12.646,2.096,0.153,0.132,0,0,0,100,6.119987887,0.938366252
+RP12,Koornneef2012,RVB,REP,Brennisteinsfjoll,0,Grindaskord,Brennisteinsfjoll,0,0,0,0,63.876,-21.741,Lava,48.495,1.65,14.991,0.04,11.786,0,0.202,7.966,12.217,2.257,0.202,0.172,0,0,0,100,5.778941848,0.992587837
+RP13,Koornneef2012,RVB,REP,Brennisteinsfjoll,0,Hlidarvatn,Brennisteinsfjoll,0,0,0,0,63.875,-21.74,Lava,48.307,1.685,15.255,0.04,11.992,0,0.202,7.728,12.097,2.27,0.222,0.182,0,0,0,100,6.093207583,0.803616228
+RP55,Koornneef2012,RVB,REP,Krysuvik,0,Straumsvik,Krysuvik,0,0,0,0,64.043,-22.027,Lava,49.444,1.407,14.055,0.02,12.3,0,0.213,7.554,12.384,2.288,0.182,0.142,0,0,0,100,2.8578944,0.986322218
+RP115E,Gee,RVB,REP,Reykjanes,H53_possibly_fissure_flow_N_Fagradalsfjall_may_be_D11.,0,Reykjanes,0,0,0,0,63.9,-22.22,Lava,48.55,1.26,15.6,0,10.38,0,0.18,9.3,12.65,1.83,0.13,0.11,0,0,0,99.99,8.223527751,0.850252721
+RP105A,GeeThirlwall2006,RVB,REP,Reykjanes,D7??_NE_of_Lagafell/Thortharfell,0,Reykjanes,0,0,0,0,63.9,-22.5,Lava,49.08,0.5,16.59,0,8.16,0,0.15,9.99,13.96,1.5,0.02,0.04,0,0,0,99.99,7.908490804,0.939327396
+IC218,Hardarson1997,RVB,REP,Hengill,Thorlakshofn,Selvogsheidi,Hengill,0,0,0,0,63.92,-21.58,Lava,49.18,1.47,14.48,0,11.53,0,0.2,7.8,12.91,2.27,0.08,0.07,0,0,0,99.99,2.988301536,0.946989197
+RP63K____F,Gee,RVB,REP,Reykjanes,welded_Lava_to_SE_of_63J_SW_of_Graenavatn,0,Reykjanes,0,0,0,0,63.9,-22,Glass,49.11,1.36,14.87,0,11.37,0,0.2,8.18,12.55,2.07,0.14,0.15,0,0,0,100,4.970243326,0.990378182
+RP111C,Gee,RVB,REP,Hengill,Younger_Lava_flowing_around_Burfell_D25_Leitin_(Jakobsson),0,Brennisteinsfjoll,0,0,0,0,63.92,-21.47,Lava,48.81,1.73,15.22,0,11.6,0,0.22,8.15,11.87,2.07,0.16,0.16,0,0,0,99.99,6.726653985,0.934414528
+RP59I,Gee,RVB,REP,Reykjanes,D3_Hafnasandur_aphyric_pahoehoe._Bergholl,Haleyjabunga,Reykjanes,Post-Glacial,<13000 BP,0,0,63.97,-22.4,Lava,48.98,1.37,15,0,11.07,0,0.19,8.29,13,1.87,0.12,0.11,0,0,0,100,4.702101443,0.891154426
+RP59J____1F,Gee,RVB,REP,Reykjanes,D4_Sandvikur_'rift_section'_basal_flow,Sandvikur,Reykjanes,0,0,0,0,63.97,-22.4,Lava,48.63,1.17,15.65,0,10.34,0,0.19,9.09,12.85,1.87,0.09,0.1,0,0,0,99.98,7.550280741,0.989126868
+RP59N____2F,Gee,RVB,REP,Reykjanes,D4_Sandvikur_top_flow_'rift_section'_ca_12_compound_flow_units_inbtn,Sandvikur,Reykjanes,0,0,0,0,63.97,-22.4,Lava,48.69,1.32,15.24,0,10.96,0,0.19,8.55,12.91,1.93,0.12,0.11,0,0,0,100.02,5.933216394,0.986189858
+RP134C,Gee,RVB,REP,Krysuvik,H94_Sandfell_NE_of_Troll_range_recent_plag_phi,Sandfell,Krysuvik,0,0,0,0,63.97,-21.97,Lava,48.78,1.29,15.16,0,10.57,0,0.19,8.72,13.12,1.92,0.13,0.12,0,0,0,100,5.532705792,0.994510892
+RP80C,GeeThirlwall2006,RVB,REP,Reykjanes,D1_Skalafell_2phi_youger_than_Ha,Skalafell,Reykjanes,Post-Glacial,<13000 BP,0,0,63.82,-22.65,Lava,49.94,1.12,14.45,0,11.36,0,0.21,8.15,12.63,1.96,0.1,0.09,0,0,0,100.01,3.680031475,0.999338527
+RP109B,Gee,RVB,REP,Brennisteinsfjoll,D24_Strompar_Blafjoll_base_2_phi_pahoehoe,Strompar-Blafjoll,Brennisteinsfjoll,0,0,0,0,63.98,-21.63,Lava,48.72,1.27,15.38,0,10.88,0,0.19,8.9,12.44,1.93,0.17,0.13,0,0,0,100.01,7.481584556,0.905796635
+RP122B,Gee,RVB,REP,Reykjanes,H169_Lava,0,Reykjanes,0,0,0,0,63.85,-22.37,Lava,48.7,1.57,14.8,0,11.97,0,0.21,7.89,12.45,2.09,0.18,0.14,0,0,0,100,4.980622497,0.951275115
+IT6,Sinton2005,RVB,REP,Brennisteinsfjoll,Reykjanes,Leitahraun,Brennisteinsfjoll,Post-Glacial,5200 BP,0,0,64.1,-21.5,Lava,48.15,1.79,15.26,0,12.21,0,0.19,8.22,11.91,1.94,0.16,0.16,0,0,0,99.99,7.815734643,0.968764359
+IT92,Sinton2005,RVB,REP,Brennisteinsfjoll,Reykjanes,Leitahraun,Brennisteinsfjoll,Post-Glacial,5200 BP,0,0,63.94,-21.33,Lava,48.58,1.71,15.18,0,12.05,0,0.19,8.4,12.1,1.47,0.15,0.16,0,0,0,99.99,7.504804895,0.857843737
+RP51F_____1F,Gee,RVB,REP,Reykjanes,H45_Youngest_flow_in_area_from_Selskal_E_of_Kast,Selskel,Reykjanes,0,0,0,0,63.85,-22.3,Lava,49.14,1.13,15.48,0,10.77,0,0.19,8.42,12.72,1.93,0.13,0.11,0,0,0,100.02,5.890743023,0.82932397
+RP134E,Gee,RVB,REP,Krysuvik,Fjallitheina_aphyric_2_phi_,Fjallitheina,Krysuvik,0,0,0,0,63.97,-21.97,Pillow,49.36,1.64,14.45,0,12.19,0,0.22,7.54,12.03,2.19,0.2,0.18,0,0,0,100,3.903481379,0.929446367
+rsg54,Hemond1993,RVB,REP,Reykjanes,Reykjanes,Haleyjabunga,Reykjanes,Post-Glacial,<13000 BP,0,0,63.82,-22.682,Lava,48.878,0.359,16.06,0,7.661,0,0.19,10.075,14.963,1.776,0.02,0.02,0,0,0,100,5.564390471,0.94872592
+RP106D,Gee,RVB,REP,Reykjanes,H46_recent_flow_from_Fagrradalsfjall_Gorn_medium_grained_CPX_present,0,Reykjanes,0,0,0,0,63.88,-22.32,Lava,49.08,0.94,15.79,0,9.85,0,0.18,9.25,12.98,1.76,0.1,0.08,0,0,0,100.01,7.330977537,0.998241441
+RP64H,Gee,RVB,REP,Brennisteinsfjoll,H115_E_southern_coast_road_2_phase_recent_flow_Slattadalur,0,Brennisteinsfjoll,0,0,0,0,63.85,-22,Lava,48.17,1.63,15.31,0,11.91,0,0.2,8.54,11.76,2.15,0.17,0.16,0,0,0,100,8.585379643,0.86829665
+RP64I,Gee,RVB,REP,Brennisteinsfjoll,H127_E_southern_coast_road_recent_flow_from_nama_more_phyric_than_64H_,0,Brennisteinsfjoll,0,0,0,0,63.85,-22,Lava,48.62,1.43,15.45,0,11.09,0,0.19,8.4,12.45,2.07,0.16,0.14,0,0,0,100,6.667516503,0.960626051
+RP68F____2,Gee,RVB,REP,Reykjanes,bl1_11-4k,0,Reykjanes,0,0,0,0,64.08,-21.83,Lava,48.43,1.51,15.53,0,11.23,0,0.2,8.55,12.17,2.07,0.16,0.15,0,0,0,100,7.762311565,0.996821207
+RP42K,Gee,RVB,REP,Krysuvik,H55?_Meltunnuklif_2_phi_flow_age_relationship_uncertain_fissured,Meltunnuklif,Krysuvik,0,0,0,0,63.85,-22.27,Lava,48.03,1.79,15.24,0,11.48,0,0.2,8.58,12.35,1.94,0.18,0.2,0,0,0,99.99,7.535805667,0.973121189
+RP65S_,Gee,RVB,REP,Krysuvik,H69_Younger_plag_phi_flow_coming_out_of_Stori-Hamradalur,Stori-Hamradalur,Krysuvik,0,0,0,0,63.87,-22.07,Lava,49.45,1.53,14.44,0,12.07,0,0.21,7.68,12.2,2.08,0.17,0.15,0,0,0,99.98,3.876672924,0.937848695
+RP64K,Gee,RVB,REP,Krysuvik,H128_E_southern_coast_road_2_phase_recent_flow_Stalhavrikrah,Stalhavrikrah,Krysuvik,0,0,0,0,63.85,-22,Lava,48.43,1.43,15.59,0,11.01,0,0.19,8.49,12.46,2.11,0.15,0.14,0,0,0,100,7.174505433,0.974211004
+RP65N,GeeThirlwall2004,RVB,REP,Krysuvik,H69_Ogmundar-hraun_sparse_plag_phi_1050,Ogmundarhraun,Krysuvik,Post-Glacial,1151-1188 AD,0,0,63.87,-22.07,Lava,49.24,1.54,14.55,0,12.17,0,0.22,7.61,12.12,2.21,0.18,0.16,0,0,0,100,4.184355696,0.936968467
+H1,Kokfelt2006,RVB,REP,Brennisteinsfjoll,Trolladyngja,Herdisarvikurhraun,Brennisteinsfjoll,0,0,0,0,63.86,-21.91,Lava,48.71,1.43,15.41,0,11.03,0,0.19,8.38,12.54,2.01,0.15,0.14,0,0,0,99.99,6.337466043,0.920398112
+RP31P,Gee,RVB,REP,Krysuvik,H77_Echo_valley_younger_plag_phi_Scoria,0,Krysuvik,0,0,0,0,63.95,-22.08,Scoria,48.97,1.4,15.03,0,11.26,0,0.2,8.38,12.62,1.89,0.13,0.13,0,0,0,100.01,5.62568956,0.976715139
+RP36A,Gee,RVB,REP,Krysuvik,H77_Echo_valley_welded_plag_phi_Lava_,0,Krysuvik,0,0,0,0,63.95,-22.08,Lava,49.58,1.41,14.65,0,11.77,0,0.21,7.67,12.29,2.12,0.16,0.13,0,0,0,99.99,3.786696831,0.818993843
+RP57P,Gee,RVB,REP,Krysuvik,H72_Younger_Lava_erupted_thr_fissure_inc_Hrutafell,0,Krysuvik,0,0,0,0,63.93,-22.07,Lava,49.42,1.52,14.38,0,12.23,0,0.22,7.76,12.09,2.05,0.18,0.14,0,0,0,99.99,4.255897003,0.992886905
+RP63C_recent,Gee,RVB,REP,Krysuvik,W_Kleifarvatn_W_of_road_at_turnoff_for_S_Kleif_youger_Scoria_mounds_aphyric_Lava,Kleifarvatn,Krysuvik,0,0,0,0,63.9,-22.02,Lava,49.36,1.46,14.5,0,12.57,0,0.22,7.64,11.86,2.15,0.13,0.12,0,0,0,100.01,4.816391777,0.961340968
+RP63D,Gee,RVB,REP,Krysuvik,W_Kleifarvatn_E_of_road_at_turnoff_for_S_Kleif_youger_(welded)_flow_in_small_nama_aphyric_sparse_plag_xenocryst,Kleifarvatn,Krysuvik,0,0,0,0,63.9,-22.02,Lava,49.6,1.45,14.29,0,12.44,0,0.22,7.49,12.1,2.15,0.14,0.11,0,0,0,99.99,3.545768043,0.920935964
+RP61F____3F,Gee,RVB,REP,Krysuvik,H129_recent_flow_from_NE_of_Kleifarvatn_in_valley_btn_mounds_and_61G,0,Krysuvik,0,0,0,0,63.97,-21.93,Lava,48.33,1.7,15.4,0,11.67,0,0.19,8.06,12.13,2.15,0.19,0.17,0,0,0,99.99,6.808647747,0.882412619
+RP23N_____1,Gee,RVB,REP,Krysuvik,H99_Obrinnisholar_2_phase_recent_flow/drape_from_Scoria_cones,Obrinnisholar,Krysuvik,0,0,0,0,64,-21.9,Lava,48.6,1.34,15.38,0,11.15,0,0.19,8.93,12.22,1.92,0.13,0.12,0,0,0,99.98,8.14680586,0.88097836
+RP15,Koornneef2012,RVB,REP,Hengill,Thingvellir,Nesjahraun,Hengill,0,0,0,0,63.956,-21.445,Lava,48.942,1.5,14.446,0.02,12.05,0,0.203,7.785,12.367,2.332,0.193,0.152,0,0,0,100,4.144081501,0.974797593
+456747,Peate2009,RVB,REP,Brennisteinsfjoll,0,Hellnahraun_yngra,Brennisteinsfjoll,Historical,940-980 AD,0,0,64.03,-21.95,Lava,48.31,1.73,15.39,0,11.41,0,0.2,8.18,12.21,2.18,0.21,0.17,0,0,0,99.99,6.764492249,0.95968166
+456733,Peate2009,RVB,REP,Brennisteinsfjoll,0,Breiddalshraun,Brennisteinsfjoll,Historical,940-980 AD,0,0,63.93,-21.83,Lava,48.28,1.68,15.42,0,11.51,0,0.2,8.11,12.2,2.22,0.2,0.17,0,0,0,99.99,6.776464089,0.935786387
+456732,Peate2009,RVB,REP,Brennisteinsfjoll,0,Breiddalshraun,Brennisteinsfjoll,Historical,940-980 AD,0,0,63.93,-21.83,Lava,48.43,1.75,15.19,0,11.6,0,0.2,8,12.24,2.19,0.21,0.17,0,0,0,99.98,6.02002674,0.932001347
+456743,Peate2009,RVB,REP,Brennisteinsfjoll,0,Tvibollahraun,Brennisteinsfjoll,Historical,940-980 AD,0,0,63.99,-21.79,Lava,48.47,1.73,15.42,0,11.21,0,0.2,8.14,12.23,2.21,0.21,0.18,0,0,0,100,6.423757344,0.917808853
+RP26AA____1F,Gee,RVB,REP,Krysuvik,H103_Helgafell_Ridge__N_end_most_recent_plag_phi_froth_draping_graben_walls,Helgafell,Krysuvik,Glacial,0,0,0,64,-21.87,Lava,49.32,1.53,14.57,0,12.03,0,0.22,7.64,12.24,2.14,0.17,0.14,0,0,0,100,3.976955941,0.884883802
+RP68E____5,Gee,RVB,REP,Krysuvik,hu2_950AD,0,Krysuvik,Historical,950 AD,0,0,64.08,-21.83,Lava,48.41,1.61,15.37,0,11.39,0,0.19,8.37,12.07,2.24,0.19,0.16,0,0,0,100,7.2882319,0.98619276
+RP30,Gee,RVB,REP,Brennisteinsfjoll,0,0,Brennisteinsfjoll,0,0,0,0,64.05,-21.58,Lava,48.42,1.68,15.37,0,11.62,0,0.2,8.03,12.12,2.21,0.19,0.17,0,0,0,100.01,6.602461052,0.896538782
+456742,Peate2009,RVB,REP,Brennisteinsfjoll,0,Rjupnadyngnahraun,Brennisteinsfjoll,Historical,1150 AD?,0,0,64.02,-21.74,Lava,48.35,1.64,15.32,0,11.48,0,0.2,8.34,12.12,2.19,0.2,0.15,0,0,0,99.99,7.176463993,0.990032914
+H79,Kokfelt2006,RVB,REP,Krysuvik,Reykjanes,Maelifell,Krysuvik,0,0,0,0,63.86,-22.12,Lava,49.63,1.5,14.32,0,12.05,0,0.21,7.77,12.44,1.78,0.18,0.14,0,0,0,100.02,3.486565189,0.889184706
+RP10,Koornneef2012,RVB,REP,Krysuvik,0,Ogmundarhraun,Krysuvik,Historical,1151-1188 AD,0,0,63.854,-22.233,Lava,49.48,1.479,14.123,0.02,12.133,0,0.213,7.558,12.39,2.279,0.182,0.132,0,0,0,100,2.809442335,0.99854042
+RP56,Koornneef2012,RVB,REP,Krysuvik,0,Ogmundarhraun,Krysuvik,Historical,1151-1188 AD,0,0,63.859,-22.155,Lava,49.489,1.387,14.187,0.02,12.101,0,0.213,7.656,12.385,2.238,0.172,0.142,0,0,0,100,3.151673189,0.99669333
+RP64L,Gee,RVB,REP,Krysuvik,H128_E_southern_coast_road_2_phase_most_recent_flow_,0,Krysuvik,0,0,0,0,63.85,-22,Lava,48.68,1.39,15.54,0,10.98,0,0.19,8.5,12.44,2.01,0.15,0.13,0,0,0,100.01,6.955593942,0.952869026
+456744,Peate2009,RVB,REP,Krysuvik,0,Gvendarselshraun,Krysuvik,Historical,1151-1188 AD,0,0,64.02,-21.87,Lava,49.27,1.51,14.48,0,11.92,0,0.21,7.75,12.33,2.2,0.18,0.14,0,0,0,99.99,3.88641545,0.989166225
+456745,Peate2009,RVB,REP,Krysuvik,0,Kapelluhraun,Krysuvik,Historical,1151-1188 AD,0,0,64.02,-21.96,Lava,49.36,1.51,14.27,0,12.13,0,0.22,7.73,12.26,2.19,0.18,0.14,0,0,0,99.99,3.699667376,0.994055845
+456746,Peate2009,RVB,REP,Krysuvik,0,Kapelluhraun,Krysuvik,Historical,1151-1188 AD,0,0,64.02,-21.96,Lava,49.25,1.57,14.43,0,11.88,0,0.21,7.76,12.33,2.24,0.18,0.14,0,0,0,99.99,3.788124848,0.997008447
+NI1140,Peate2009,RVB,REP,Krysuvik,0,Mavahlidarhraun,Krysuvik,Historical,1151-1188 AD,0,0,63.97,-22.52,Lava,49.39,1.57,14.28,0,12.2,0,0.21,7.65,12.24,2.18,0.14,0.14,0,0,0,100,3.6084113,0.986711145
+408666,Peate2009,RVB,REP,Krysuvik,0,Ogmundarhraun,Krysuvik,Historical,1151-1188 AD,0,0,63.86,-22.17,Lava,49.42,1.5,14.43,0,11.9,0,0.21,7.77,12.31,2.18,0.14,0.14,0,0,0,100,3.803984757,0.985320636
+456740,Peate2009,RVB,REP,Brennisteinsfjoll,0,Kongsfellshraun,Brennisteinsfjoll,Historical,1200 AD,0,0,64.01,-21.66,Lava,48.09,1.81,15.17,0,11.86,0,0.2,8.24,11.93,2.27,0.24,0.18,0,0,0,99.99,7.375122096,0.926010306
+456741,Peate2009,RVB,REP,Brennisteinsfjoll,0,Kongsfellshraun,Brennisteinsfjoll,Historical,1200 AD,0,0,64.01,-21.66,Lava,48.19,1.81,15.15,0,11.83,0,0.2,8.25,11.94,2.21,0.23,0.18,0,0,0,99.99,7.264339552,0.951927988
+RP60H___2F,Gee,RVB,REP,Reykjanes,H2_Reykjanes_onlapping_the_pillow_mounds_2Phi._youger_than_D1,0,Reykjanes,0,0,0,0,63.82,-22.72,Pillow,49.73,1.57,14.26,0,12.29,0,0.21,7.44,11.97,2.22,0.16,0.15,0,0,0,100,3.336613565,0.929468518
+RP96D,Gee,RVB,REP,Reykjanes,H16_Eldvorp_fissure_W_of_G'vik,0,Reykjanes,0,0,0,0,63.85,-22.43,Lava,49.5,2.1,13.65,0,13.91,0,0.24,6.66,11.12,2.38,0.23,0.21,0,0,0,100,2.936731777,0.927373229
+RP117A,Gee,RVB,REP,Svartsengi,H19_Illahraun_Svartsengi_1226_AD,Illahraun,Svartsengi,Historical,1211-1240 AD,0,0,63.87,-22.42,Lava,49.32,2.01,13.89,0,13.41,0,0.24,7.02,11.4,2.29,0.22,0.21,0,0,0,100.01,3.530624598,0.968983027
+RP66D___3F,Gee,RVB,REP,Svartsengi,H36_Arnarseturs-hraun_aphyric_Eof_G'vik_rd_Eldvorp_age_ca_1k_AD,Arnarseturshraun,Svartsengi,Historical,1211-1240 AD,0,0,63.95,-22.42,Lava,49.37,2.03,13.93,0,13.36,0,0.23,6.93,11.36,2.36,0.22,0.21,0,0,0,100,3.351592486,0.928627823
+RP1,Koornneef2012,RVB,REP,Svartsengi,0,Illahraun,Svartsengi,Historical,1211-1240 AD,0,0,64.054,-21.991,Lava,48.361,1.739,15.183,0.051,11.588,0,0.192,8.016,12.272,2.204,0.202,0.172,0,0,0,100,6.073798741,0.945067737
+RP3,Koornneef2012,RVB,REP,Svartsengi,0,Arnarseturshraun,Svartsengi,Historical,1211-1240 AD,0,0,63.928,-22.425,Lava,49.485,1.848,13.706,0.02,13.457,0,0.223,6.904,11.503,2.416,0.223,0.203,0,0,0,100,2.775083859,0.996282409
+RP7,Koornneef2012,RVB,REP,Svartsengi,0,Eldvarpahraun,Svartsengi,Historical,1211-1240 AD,0,0,63.819,-22.558,Lava,48.773,1.95,14.032,0.04,13.172,0,0.222,7.597,11.486,2.324,0.192,0.202,0,0,0,100,5.144406013,0.806008607
+RP8,Koornneef2012,RVB,REP,Svartsengi,0,Arnarseturshraun,Svartsengi,Historical,1211-1240 AD,0,0,63.909,-22.42,Lava,49.338,2.042,13.734,0.03,13.382,0,0.223,6.867,11.519,2.438,0.213,0.203,0,0,0,100,2.695490084,0.974751937
+RP9,Koornneef2012,RVB,REP,Svartsengi,0,Arnarseturshraun,Svartsengi,Historical,1211-1240 AD,0,0,63.89,-22.426,Lava,49.445,1.816,13.795,0.02,13.404,0,0.224,6.908,11.54,2.418,0.214,0.204,0,0,0,100,2.868579626,0.981366315
+408673,Peate2009,RVB,REP,Svartsengi,0,Eldvarpahraun,Svartsengi,Historical,1211-1240 AD,0,0,63.87,-22.52,Lava,49.6,2.16,13.62,0,13.81,0,0.24,6.6,11.11,2.39,0.25,0.22,0,0,0,100,2.606438714,0.899427347
+NI-8554,Peate2009,RVB,REP,Svartsengi,0,Illahraun,Svartsengi,Historical,1211-1240 AD,0,0,63.88,-22.46,Lava,49.31,2.04,13.86,0,13.31,0,0.23,7.01,11.42,2.38,0.23,0.2,0,0,0,99.99,3.325721929,0.989806473
+456722,Peate2009,RVB,REP,Svartsengi,0,Arnarseturshraun,Svartsengi,Historical,1211-1240 AD,0,0,63.92,-22.43,Lava,49.23,2.02,14.04,0,13.27,0,0.23,6.95,11.47,2.35,0.23,0.2,0,0,0,99.99,3.422018449,0.886383783
+RP2,Koornneef2012,RVB,REP,Krysuvik,0,Afstaparhraun,Krysuvik,Historical,1211-1240 AD,0,0,64.016,-22.173,Lava,49.577,1.37,14.192,0.02,12.086,0,0.213,7.558,12.387,2.272,0.183,0.132,0,0,0,100,2.862004421,0.99795961
+456723,Peate2009,RVB,REP,Krysuvik,0,Afstaparhraun_yngra,Krysuvik,Historical,1325 AD,0,0,63.94,-22.13,Lava,49.47,1.47,14.34,0,11.97,0,0.21,7.67,12.27,2.27,0.19,0.14,0,0,0,100,3.464901963,0.997972433
+NI-8629,Peate2009,RVB,REP,Krysuvik,0,Eldborgarhraun,Krysuvik,Historical,1325 AD,0,0,63.97,-22.1,Lava,49.41,1.51,14.23,0,12.11,0,0.21,7.77,12.26,2.17,0.18,0.13,0,0,0,99.98,3.67261764,0.982757607
+7,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.1,1.81,12.49,0,12.95,0,0.16,6.18,11.47,2.44,0.2,0.2,0,0,0,98,-1.357450614,0.982849052
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.01,1.87,13.2,0,12.37,0,0.23,6.91,11.4,1.99,0.15,0.19,0,0,0,97.32,1.80840885,0.901631992
+28,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.95,1.97,12.59,0,13.49,0,0.15,6.03,11.06,2.47,0.18,0.12,0,0,0,98.01,-0.544271564,0.912543048
+28,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.09,1.9,13.11,0,12.31,0,0.19,6.58,12.28,2.5,0.17,0.18,0,0,0,97.31,-0.163530616,0.913517797
+28,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.82,1.54,13.18,0,11.48,0,0.2,7.13,12.58,2.22,0.13,0.08,0,0,0,97.36,-0.066760676,0.991705785
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,51.23,1.91,12.83,0,12.3,0,0.2,6.31,11.06,2.3,0.21,0.19,0,0,0,98.54,-0.732451396,0.852727497
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.09,1.87,13.37,0,12.4,0,0.15,6.7,11.64,2.26,0.22,0.19,0,0,0,98.89,0.513206253,0.827397291
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.59,1.92,12.96,0,12.64,0,0.19,6.37,11.01,2.45,0.18,0.26,0,0,0,97.57,0.527395929,0.916819203
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.51,1.97,13.34,0,12.16,0,0.19,6.78,11.5,2.32,0.23,0.23,0,0,0,98.23,0.964730962,0.935146554
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.59,1.84,12.83,0,12.7,0,0.19,6.36,10.74,2.37,0.23,0.22,0,0,0,96.07,1.282428187,0.986938495
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.18,1.67,12.97,0,12.72,0,0.24,6.26,10.55,2.45,0.18,0.23,0,0,0,96.45,1.389960493,0.899554676
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.69,1.87,12.42,0,13.26,0,0.19,6.2,11.24,2.38,0.2,0.19,0,0,0,97.64,-0.650692908,0.997538124
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.29,1.81,12.56,0,12.84,0,0.26,6.67,11.03,2.39,0.17,0.2,0,0,0,98.22,0.448015837,0.805811943
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.35,1.87,12.86,0,13,0,0.19,6.39,11.05,2.47,0.22,0.16,0,0,0,98.56,0.219734597,0.995847599
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,51.16,1.83,12.72,0,13.14,0,0.18,6.16,11.32,2.49,0.17,0.27,0,0,0,99.44,-1.122466903,0.907908337
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.14,1.84,13.61,0,11.89,0,0.17,7.22,12.09,2.2,0.18,0.03,0,0,0,98.37,1.553929215,0.968230275
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.44,1.93,13.54,0,12.37,0,0.19,7.03,11.77,2.3,0.17,0.25,0,0,0,98.99,1.681266115,0.966996216
+27,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.06,1.82,12.89,0,12.52,0,0.19,6.9,11.8,2.33,0.15,0.22,0,0,0,97.88,0.641409387,0.946354727
+26,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.94,1.89,13.46,0,12.38,0,0.21,6.73,11.31,2.37,0.2,0.13,0,0,0,98.62,1.279628221,0.886400392
+26,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.03,1.91,13.42,0,12.49,0,0.19,6.8,11.32,2.37,0.17,0.2,0,0,0,98.9,1.414998285,0.938766099
+26,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,51.09,1.79,12.83,0,13.11,0,0.16,6.16,11.38,2.48,0.19,0.15,0,0,0,99.34,-1.083432398,0.860313844
+26,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.17,1.54,13.39,0,11.57,0,0.23,7.02,12.92,2.31,0.22,0.1,0,0,0,99.47,-1.192346089,0.936967682
+6,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.21,1.67,13.49,0,12.06,0,0.13,6.86,11.85,2.21,0.22,0.23,0,0,0,98.93,0.524193017,0.840538235
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.52,1.54,13.32,0,11.9,0,0.18,6.87,12.28,2.27,0.16,0.2,0,0,0,98.24,-0.070989333,0.87486619
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.81,1.57,13.28,0,11.84,0,0.13,6.84,11.89,2.16,0.21,0.14,0,0,0,97.87,0.181944791,0.884494872
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.45,1.55,13.15,0,11.8,0,0.18,6.82,12.04,2.18,0.19,0.19,0,0,0,97.55,-0.109809184,0.906898765
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.12,1.89,12.91,0,13.56,0,0.21,6.13,11.18,2.38,0.23,0.2,0,0,0,98.81,-0.017549772,0.807365276
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.42,2.04,12.65,0,13.69,0,0.22,6.13,11.18,2.4,0.22,0.24,0,0,0,99.19,-0.470638299,0.948940846
+4,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.42,1.67,13.54,0,11.98,0,0.17,7.01,11.37,2.25,0.17,0.15,0,0,0,97.73,2.053735494,0.95369618
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.9,1.59,13.26,0,11.86,0,0.18,6.69,12.14,2.52,0.2,0.16,0,0,0,97.5,-0.186505447,0.942921928
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.8,1.74,13.23,0,11.9,0,0.17,6.62,10.83,2.23,0.16,0.24,0,0,0,95.92,1.827455158,0.803224495
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.91,1.62,13.36,0,12.12,0,0.16,7,10.48,2.27,0.14,0.2,0,0,0,96.26,3.570298795,0.989575831
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.51,1.63,13.18,0,11.62,0,0.15,6.62,10.61,2.25,0.12,0.13,0,0,0,94.82,2.101224725,0.820780956
+3,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.6,1.6,13.29,0,11.1,0,0.21,6.7,9.8,2.29,0.17,0.16,0,0,0,94.92,3.008800905,0.948522955
+3,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.62,1.49,13.28,0,12.02,0,0.17,6.94,10.86,2.32,0.11,0.15,0,0,0,95.96,2.827665919,0.99690378
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.9,1.6,13.31,0,11.88,0,0.18,6.87,9.97,2.33,0.17,0.17,0,0,0,95.38,3.861820429,0.985868708
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.28,1.51,13.41,0,12.19,0,0.2,6.89,10.74,2.19,0.16,0.18,0,0,0,95.75,3.436414625,0.972566185
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.6,1.53,13.28,0,11.87,0,0.18,6.94,9.87,2.24,0.18,0.15,0,0,0,94.84,4.332758106,0.962293025
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,47.74,1.92,12.79,0,13.24,0,0.2,6.07,10.31,2.38,0.2,0.24,0,0,0,95.09,2.045082933,0.868846652
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.82,1.53,13.38,0,12.05,0,0.2,6.97,10.46,2.26,0.15,0.22,0,0,0,96.04,3.624446017,0.998333642
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.61,1.48,13.38,0,11.79,0,0.2,6.93,10.4,2.24,0.22,0.14,0,0,0,95.39,3.519945539,0.995056839
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.19,1.55,13.41,0,12.29,0,0.18,6.85,10.92,2.11,0.19,0.16,0,0,0,96.85,2.62132794,0.924404575
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.32,1.52,13.37,0,11.93,0,0.18,6.82,11.43,2.28,0.14,0.2,0,0,0,97.19,1.360997896,0.885731169
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.11,1.54,13.48,0,11.84,0,0.22,6.84,10.82,2.3,0.17,0.2,0,0,0,95.52,3.114706792,0.938820618
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.14,1.67,12.92,0,13.32,0,0.23,6.16,10.24,2.42,0.24,0.19,0,0,0,95.53,2.474151828,0.967393143
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.48,1.82,12.65,0,13.27,0,0.19,5.95,9.65,2.41,0.25,0.22,0,0,0,94.89,2.294075127,0.972736948
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.59,1.88,12.55,0,13.52,0,0.14,6,9.27,2.46,0.14,0.21,0,0,0,94.76,3.043774451,0.992928606
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.51,1.59,13.4,0,11.97,0,0.19,6.99,10.86,2.06,0.15,0.15,0,0,0,95.87,3.196127544,0.948012355
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.05,1.63,13.01,0,11.82,0,0.16,6.99,10.11,2.24,0.15,0.21,0,0,0,95.37,3.357279985,0.869151743
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.63,1.69,13.52,0,11.92,0,0.21,6.98,10.11,2.39,0.17,0.17,0,0,0,96.79,3.801742464,0.990146705
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,47.97,1.66,13.5,0,11.98,0,0.19,7.08,10.03,2.27,0.18,0.13,0,0,0,94.99,5.061700385,0.95773137
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.42,1.6,13.26,0,11.61,0,0.18,7.01,9.45,2.28,0.16,0.15,0,0,0,95.12,4.584432974,0.891367435
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.05,1.73,13.6,0,11.68,0,0.19,7.1,10.27,2.28,0.15,0.15,0,0,0,95.2,4.632584427,0.995073384
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.33,1.64,13.38,0,11.82,0,0.16,6.9,11.86,2.24,0.14,0.12,0,0,0,97.59,0.750052531,0.861344034
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.35,1.8,12.7,0,12.74,0,0.16,6.5,9.72,2.48,0.17,0.18,0,0,0,94.8,3.212197172,0.816156507
+21,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.82,1.91,12.95,0,12.93,0,0.18,6.32,10.84,2.37,0.19,0.2,0,0,0,96.71,1.244863878,0.897835682
+8,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.52,1.68,13.43,0,11.78,0,0.16,6.99,11.91,2.18,0.13,0.25,0,0,0,98.03,0.874229665,0.848855225
+8,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.42,1.71,13.23,0,11.88,0,0.16,6.87,11.72,2.24,0.14,0.13,0,0,0,97.5,0.64684312,0.921392052
+16,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.66,1.64,13.21,0,11.82,0,0.14,6.85,12.45,2.18,0.16,0.14,0,0,0,98.25,-0.706287966,0.822176549
+16,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.92,1.64,12.89,0,11.93,0,0.21,6.95,12.44,2.23,0.14,0.17,0,0,0,98.52,-0.981394264,0.999555536
+16,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.73,1.53,12.83,0,11.83,0,0.17,6.61,12.51,2.32,0.13,0.13,0,0,0,98.79,-2.374065241,0.873609526
+16,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.32,1.57,12.96,0,11.74,0,0.2,6.82,12.5,2.2,0.15,0.16,0,0,0,97.62,-1.083829308,0.922645053
+16,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.24,1.59,12.93,0,11.74,0,0.19,6.76,12.59,2.24,0.13,0.13,0,0,0,98.54,-1.847831113,0.877653221
+12,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.33,1.67,12.63,0,11.58,0,0.15,6.6,12.17,2.25,0.13,0.14,0,0,0,96.65,-1.756205792,0.925527367
+12,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.76,1.55,12.73,0,11.94,0,0.18,6.69,12.11,2.11,0.14,0.17,0,0,0,97.38,-1.151028304,0.930709384
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.42,1.57,13.84,0,11.98,0,0.18,7.05,11.89,2.28,0.19,0.17,0,0,0,99.57,1.29791537,0.832815271
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.56,1.59,13.3,0,11.87,0,0.17,6.92,11.88,2.19,0.18,0.2,0,0,0,98.86,0.117303629,0.924718317
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.21,1.6,13.4,0,11.69,0,0.18,7.08,11.88,2.25,0.18,0.23,0,0,0,98.7,0.64672742,0.984747891
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.41,1.65,13.43,0,11.79,0,0.23,6.98,12.29,2.28,0.17,0.16,0,0,0,99.39,-0.207257628,0.893907423
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.12,1.63,12.91,0,11.82,0,0.22,6.83,12.52,2.45,0.17,0.19,0,0,0,98.86,-1.586295342,0.998913291
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.45,1.56,12.96,0,12.21,0,0.16,6.85,12.63,2.26,0.21,0.17,0,0,0,99.46,-1.492730802,0.996545095
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.15,1.64,13.59,0,11.66,0,0.15,7.04,12.17,2.26,0.14,0.19,0,0,0,98.99,0.397266408,0.826806284
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.9,1.55,13.6,0,11.56,0,0.15,7.2,11.78,1.98,0.13,0.17,0,0,0,98.02,1.568807253,0.829587335
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.96,1.58,13.78,0,11.76,0,0.11,7.33,11.5,2.31,0.11,0.18,0,0,0,97.62,3.074364617,0.992301941
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.35,1.46,13.81,0,11.8,0,0.15,7.34,11.94,1.99,0.13,0.12,0,0,0,99.09,1.894504968,0.866725638
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.09,1.6,13.86,0,11.83,0,0.18,7.31,11.66,1.96,0.14,0.14,0,0,0,98.77,2.466563943,0.820587495
+4,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50,1.59,13.19,0,11.73,0,0.18,6.86,12.6,2.19,0.16,0.16,0,0,0,98.66,-1.140062598,0.821211949
+24,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.24,1.91,12.37,0,13.01,0,0.17,5.92,11.05,2.44,0.16,0.16,0,0,0,97.43,-1.468742287,0.860357931
+24,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.14,1.74,12.36,0,12.93,0,0.15,6.07,11.28,2.46,0.18,0.15,0,0,0,97.46,-1.495588567,0.982931955
+24,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.13,1.73,12.54,0,13.19,0,0.2,6.19,11.31,2.59,0.17,0.13,0,0,0,98.18,-0.855143928,0.996340969
+24,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,51.05,1.79,12.82,0,12.84,0,0.2,6.13,11.05,2.47,0.16,0.12,0,0,0,98.63,-0.742760259,0.809356693
+5,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,49.75,1.81,13.3,0,12.74,0,0.18,6.75,11,2.04,0.15,0.16,0,0,0,97.88,2.089197111,0.822656232
+1,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.13,1.91,13.79,0,13.33,0,0.19,6.92,10.94,2.25,0.17,0.17,0,0,0,99.8,3.369673176,0.913977824
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.65,1.83,13.56,0,12.78,0,0.2,6.58,10.83,2.62,0.27,0.16,0,0,0,97.48,2.707437837,0.985397558
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.5,1.82,13.9,0,12.96,0,0.16,6.54,11.36,2.73,0.2,0.22,0,0,0,98.39,2.573371598,0.80266199
+2,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,48.88,1.83,12.78,0,12.75,0,0.16,6.25,10.79,2.48,0.2,0.22,0,0,0,96.34,0.73558288,0.973336551
+10,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,51.43,1.46,13.1,0,12.31,0,0.15,6.58,10.61,2.03,0.18,0.14,0,0,0,97.99,1.259399011,0.887866043
+10,Sigurgeirsson__1992,RVB,REP,Reykjanes,0,0,Reykjanes,0,0,0,0,0,0,tholeiite,50.53,1.45,13.09,0,12.65,0,0.19,7.02,11.54,2.17,0.14,0.1,0,0,0,98.88,1.142115086,0.968326596
+S-10-05,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.68,1.53,15.05,0,11.23,0,0.19,7.85,12.46,2.19,0.36,0.19,0,0,0,100.75,3.969515034,0.918412742
+S-08-01-gl,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,50.61,1.59,14.6,0,11.58,0,0.2,7.6,12.63,2.2,0.28,0.23,0,0,0,101.52,2.192525421,0.84946449
+S-10-08,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.18,1.54,14.73,0,11.24,0,0.2,7.82,12.49,2.14,0.31,0.18,0,0,0,99.82,3.710589297,0.960528786
+S-10-09,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.65,1.55,14.67,0,11.33,0,0.2,7.83,12.52,2.16,0.26,0.19,0,0,0,100.36,3.39275053,0.957861446
+S-10-10,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,50.14,1.55,14.58,0,11.43,0,0.2,7.87,12.62,2.19,0.3,0.17,0,0,0,101.05,2.929049737,0.996763854
+S-10-14,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.69,1.55,14.77,0,11.28,0,0.2,7.96,12.6,2.14,0.27,0.17,0,0,0,100.62,3.662977717,0.980474456
+S-10-15,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,52.55,1.45,13.88,0,10.59,0,0.18,7.33,11.81,2.46,0.3,0.17,0,0,0,100.71,0.158547942,0.996187387
+S-10-16,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.4,1.55,14.64,0,11.37,0,0.2,8.27,12.96,2.06,0.26,0.2,0,0,0,100.91,3.901079827,0.937429759
+S-10-17,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.13,1.51,14.69,0,11.15,0,0.19,7.94,12.41,2.12,0.31,0.17,0,0,0,99.62,3.999564669,0.995484948
+S-10-22,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.87,1.56,14.58,0,11.45,0,0.2,8.22,12.79,2.05,0.3,0.21,0,0,0,101.23,3.658849863,0.921541741
+S-10-26,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,54.12,1.34,13.94,0,9.94,0,0.17,7.08,11.11,2.69,0.17,0.15,0,0,0,100.73,0.065615639,0.971716443
+E-11-02,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.83,1.71,15.34,0,12.12,0,0.2,8.52,11.79,2.18,0.17,0.15,0,0,0,100,8.953556646,0.840398086
+S-10-25,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.3,1.56,14.58,0,11.48,0,0.2,8,12.41,2.17,0.34,0.19,0,0,0,100.22,4.045628032,0.935398779
+S-10-24,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.25,1.55,14.71,0,11.25,0,0.2,7.75,12.39,2.15,0.32,0.16,0,0,0,99.74,3.607434236,0.942059446
+E-08-01-gl,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.86,1.57,14.72,0,11.54,0,0.2,7.79,12.37,2.17,0.21,0.22,0,0,0,100.66,3.653221035,0.907370954
+E-08-03-gl,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,49.56,1.55,14.75,0,11.5,0,0.2,7.81,12.35,2.18,0.24,0.22,0,0,0,100.35,3.914844425,0.94147501
+E-08-04,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,50.18,1.58,14.62,0,11.64,0,0.2,7.99,12.33,2.18,0.52,0.16,0,0,0,101.4,3.623025463,0.800746033
+E-11-01,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.88,1.72,15.4,0,12.13,0,0.2,8.37,11.76,2.21,0.16,0.15,0,0,0,100,8.733629347,0.954079708
+E-11-03,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.95,1.68,15.45,0,11.98,0,0.2,8.5,11.72,2.2,0.17,0.15,0,0,0,100,8.998449395,0.905696528
+E-11-05,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,48.78,1.44,15.15,0,10.86,0,0.19,8.74,12.48,2.07,0.23,0.14,0,0,0,99.99,6.518924896,0.818701823
+E-11-06,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,48.04,1.75,15.32,0,12.21,0,0.2,8.15,11.79,2.2,0.17,0.15,0,0,0,100,7.979215633,0.994467339
+S-10-23,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.57,1.79,15.57,0,12.03,0,0.2,7.95,11.3,2.18,0.27,0.19,0,0,0,98.95,8.78407106,0.921773719
+S-11-02,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.98,1.74,15.39,0,12.14,0,0.2,8.25,11.76,2.2,0.18,0.16,0,0,0,99.99,8.360669233,0.989488863
+E-08-02-gl,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,48.51,1.75,15.09,0,12.36,0,0.21,8.01,11.77,2.25,0.25,0.17,0,0,0,100.36,7.013893453,0.981882526
+12BRE631,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Pillow Lava,47.99,1.64,16.16,0,11.36,0,0.19,8.44,11.83,2.12,0.15,0.15,0,0,0,99.99,9.437011039,0.825140453
+S-10-20,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Dike,49.66,1.59,14.98,0,11.55,0,0.19,8.22,11.24,2.35,0.18,0.15,0,0,0,100.12,6.714967318,0.90798484
+S-10-21,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Dike,48.34,1.66,15.44,0,12,0,0.2,8.39,11.85,2.2,0.2,0.13,0,0,0,100.42,8.247082206,0.959885723
+S-08-02-gl,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Dike,51.47,1.56,14.19,0,11.17,0,0.19,7.29,11.48,2.43,0.49,0.14,0,0,0,100.42,1.67276581,0.980864491
+S-08-03,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Dike,50.32,1.69,15.55,0,12.23,0,0.2,8.48,11.95,2.3,0.11,0.13,0,0,0,102.96,7.254450434,0.986644458
+12BRE630,"Pollock et al., 2014",RVB,REP,Krysuvik,UndirhlÍðar,0,Krysuvik,Glacial,118000-10000,0,0,63.5946,-21.5324,Tuff breccia,48.2,1.71,15.72,0,11.93,0,0.2,8.08,11.65,2.17,0.17,0.15,0,0,0,99.99,8.350731159,0.820098274
